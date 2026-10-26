@@ -1,0 +1,8 @@
+Ticker,Company Name,Quantity,Buy Price ($),Current Price ($),Invested Capital ($),Current Market Value ($),Gain/Loss ($),Gain/Loss (%)
+AAPL,Apple Inc.,10,150.00,185.50,1500.00,1855.00,+355.00,+23.67%
+MSFT,Microsoft,5,310.00,425.00,1550.00,2125.00,+575.00,+37.10%
+NVDA,Nvidia,8,450.00,880.00,3600.00,7040.00,+3440.00,+95.56%
+AMZN,Amazon,12,130.00,180.00,1560.00,2160.00,+600.00,+38.46%
+TSLA,"Tesla, Inc.",6,240.00,215.00,1440.00,1290.00,-150.00,-10.42%
+GOOGL,Alphabet Inc. (Class A),15,15.00,318.06,225.00,4770.98,+4545.98,+2020.43%
+TOTAL,---,56,---,---,9875.00,19240.97,+9365.97,+94.85%
